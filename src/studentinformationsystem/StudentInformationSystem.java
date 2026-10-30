@@ -6,8 +6,8 @@ import java.util.Scanner;
 public class StudentInformationSystem {
     public static void main(String[] args) {
        
-        String studentName = "Aina";
-        String studentID = "S87054";
+        String studentName = "Nurul";
+        String studentID = "S86514";
         
         System.out.println("===== STUDENT INFORMATION =====");
         System.out.println("Student Name: " + studentName);
