@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class StudentInformationSystem {
     public static void main(String[] args) {
+       
         String studentName = "Aina";
         String studentID = "S87054";
         
@@ -36,5 +37,6 @@ public class StudentInformationSystem {
         System.out.println("=================================");
         
         scanner.close();
+        
     }
 }
